@@ -227,7 +227,7 @@ article i, .title {
 
 .card {
     background-color: white;
-    width: 330px;
+    width: 380px;
     height: 451px;
 }
 
@@ -264,6 +264,8 @@ article i, .title {
 
 .flexcard{
     display: flex;
+    justify-content: space-between;
+    margin-bottom: -90px;
 }
 
 .padcard {
